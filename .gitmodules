@@ -1,0 +1,3 @@
+[submodule "packages/my-repo-2"]
+	path = packages/my-repo-2
+	url = git@github.com:galenjiang/my-repo-2.git
